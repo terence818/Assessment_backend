@@ -1,13 +1,12 @@
-Assessment Backend
-Config file (conf/app.conf)
-Log file (log)
+# Assessment Backend
+1.Config file (conf/app.conf)
+2.Log file (log)
 
-Controllers 
+# Controller
+# ProductRouteController
+1.getProduct- Get all the product list
+2.getEditProduct - Get the product according id
+3.postEditProduct - Edit the product according id
 
-ProductRouteController
-getProduct- Get all the product list
-getEditProduct - Get the product according id
-postEditProduct - Edit the product according id
-
-Database configuration
-Config file (conf/app.conf)
+# Database Configuration
+1.Config file (conf/app.conf)
